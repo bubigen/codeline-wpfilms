@@ -1,0 +1,10 @@
+.post-type-archive .extra-data span.label,
+.cline-film-widget span.label {
+	color: #FFF;
+}
+.cline-film-widget dt a {
+	font-size: 16px;
+}
+.cline-film-widget dd {
+	margin-bottom: 15px;
+}
